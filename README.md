@@ -36,8 +36,15 @@ It provides a modern UI for managing managers, staff, customers, and departments
 
 
 -git clone https://github.com/ABHIJITH54/crm_admin.git
+
+
+
 -cd crm_admin
+
+
 -npm install
+
+
 -npm run dev
 
 
