@@ -32,6 +32,21 @@ It provides a modern UI for managing managers, staff, customers, and departments
 - Real-time API integration with Django backend
 
 
+
+### ADMIN CREDENTIALS
+
+
+
+
+username==>   abhijithms216@gmail.com
+
+password==>   Abhijithabhi@808933
+
+
+
+
+
+
 ##  setup steps
 
 
